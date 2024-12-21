@@ -308,7 +308,7 @@ document.querySelector('.b-19').onclick = f19;
 // Вывод - по нажатию кнопки b-20
 // Вывод в out-20
 
-let d20 = [4, 5, 6, 7, 8, 'ebaaa', 9, 10];
+let d20 = [4, 5, 6, 7, 8, 9, 10];
 
 function f20() {
     document.querySelector('.out-20').innerHTML = d20.join('');
